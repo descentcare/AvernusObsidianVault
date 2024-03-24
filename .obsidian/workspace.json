@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "NPCs/кенку.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41334a506fd614d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/Маг погоды.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "Encounters/Маг погоды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "Encounters/Маг погоды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Форт Костяшек.md"
+                "file": "Encounters/Маг погоды.md"
               }
             }
           }
@@ -146,11 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6f83d6973b8fb09",
+  "active": "41334a506fd614d6",
   "lastOpenFiles": [
-    "красные колпаки.md",
-    "ночная карга.md",
+    "Encounters/Битва войны крови.md",
+    "Столкновения.md",
+    "Encounters/Маг погоды.md",
+    "NPCs/маг.md",
+    "Pics/Pasted image 20240324224356.png",
+    "Столкновение.md",
+    "Pics/Pasted image 20240324221107.png",
+    "NPCs/кенку.md",
+    "NPCs",
+    "Encounters",
     "Форт Костяшек.md",
+    "push",
+    "NPCs/красные колпаки.md",
+    "NPCs/ночная карга.md",
     "2024-03-24.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -159,7 +183,6 @@
     "Pics/Pasted image 20240324204217.png",
     "Pics/Pasted image 20240324204209.png",
     "Pics/Pasted image 20240324204147.png",
-    "Untitled.md",
     "create a link.md"
   ]
 }
