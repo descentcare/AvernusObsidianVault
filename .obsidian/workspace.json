@@ -11,8 +11,12 @@
             "id": "d6f83d6973b8fb09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Форт Костяшек.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Форт Костяшек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Форт Костяшек.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Форт Костяшек.md"
+              }
             }
           }
         ]
@@ -140,12 +148,12 @@
   },
   "active": "d6f83d6973b8fb09",
   "lastOpenFiles": [
+    "красные колпаки.md",
+    "ночная карга.md",
+    "Форт Костяшек.md",
     "2024-03-24.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "ночная карга.md",
-    "Форт Костяшек.md",
-    "красные колпаки.md",
     "Pics/Pasted image 20240324203725.png",
     "Pics",
     "Pics/Pasted image 20240324204217.png",
