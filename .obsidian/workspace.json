@@ -11,9 +11,11 @@
             "id": "41334a506fd614d6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pics/Pasted image 20240325001304.png"
+                "file": "Столкновения.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1da839a9e67e88d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pics/Pasted image 20240325001304.png",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5c591a5669a26024",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pics/Pasted image 20240325001304.png",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e60c59e31b39e6cf",
             "type": "leaf",
             "state": {
@@ -116,22 +89,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "4fd360d4fc53fa04",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pics/Pasted image 20240325001304.png"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,39 +107,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5423689d7aaa5fbd",
+  "active": "41334a506fd614d6",
   "lastOpenFiles": [
-    "NPCs/Чазм.md",
-    "Pics/Pasted image 20240325001628.png",
-    "Pics/Pasted image 20240325001613.png",
-    "Encounters/Банда демонов.md",
-    "NPCs/Барлгура.md",
-    "NPCs/Дретч.md",
-    "Pics/Pasted image 20240325001324.png",
-    "Pics/Pasted image 20240325001304.png",
-    "NPCs/кенку.md",
-    "Столкновения.md",
-    "Pics/Pasted image 20240325000614.png",
-    "Pics/Pasted image 20240325000632.png",
+    "Encounters/Лагерь когорты 9-497.md",
+    "Untitled.md",
+    "NPCs/Камбион.md",
+    "Pics/Pasted image 20240325011151.png",
     "Encounters/Отряд дьяволов.md",
+    "Pics/Pasted image 20240325011209.png",
+    "Столкновения.md",
+    "Лагерь когорты 9/497.md",
+    "Лагерь когорты 9",
+    "Encounters/Всадник в цепях.md",
+    "NPCs/Виверна.md",
+    "Pics/Pasted image 20240325005754.png",
+    "Pics/Pasted image 20240325005806.png",
+    "Encounters/Куча костей и ценностей.md",
+    "NPCs/Дьявол цепей.md",
+    "NPCs/Шипастый дьявол.md",
+    "Pics/Pasted image 20240325004139.png",
+    "Pics/Pasted image 20240325004148.png",
+    "Encounters/Банда демонов.md",
+    "Pics/Pasted image 20240325003825.png",
+    "NPCs/Костяной дьявол.md",
+    "Pics/Pasted image 20240325003839.png",
+    "Pics/Pasted image 20240325003736.png",
+    "NPCs/Исчадие преисподней.md",
+    "Pics/Pasted image 20240325003751.png",
+    "NPCs/Игольчатый дьявол.md",
+    "NPCs/Бес.md",
+    "NPCs/Бородатый дьявол.md",
+    "NPCs/Меррегон.md",
+    "NPCs/Нальфешни.md",
+    "NPCs/Глабрезу.md",
+    "NPCs/Мэйн.md",
+    "NPCs/Хезроу.md",
+    "NPCs/Врок.md",
     "Encounters/Битва войны крови.md",
-    "Encounters/Маг погоды.md",
-    "NPCs/маг.md",
-    "Pics/Pasted image 20240324224356.png",
-    "Столкновение.md",
-    "Pics/Pasted image 20240324221107.png",
+    "NPCs/Чазм.md",
+    "NPCs/Барлгура.md",
     "NPCs",
     "Encounters",
-    "Форт Костяшек.md",
     "push",
-    "NPCs/красные колпаки.md",
-    "NPCs/ночная карга.md",
-    "2024-03-24.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Pics/Pasted image 20240324203725.png",
-    "Pics",
-    "Pics/Pasted image 20240324204217.png",
-    "create a link.md"
+    "Pics"
   ]
 }
