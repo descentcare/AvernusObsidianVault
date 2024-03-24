@@ -11,11 +11,9 @@
             "id": "41334a506fd614d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Encounters/Банда демонов.md",
-                "mode": "source",
-                "source": false
+                "file": "Pics/Pasted image 20240325001304.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/Банда демонов.md",
+                "file": "Pics/Pasted image 20240325001304.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/Банда демонов.md",
+                "file": "Pics/Pasted image 20240325001304.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/Банда демонов.md"
+                "file": "Pics/Pasted image 20240325001304.png"
               }
             }
           }
@@ -146,13 +144,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41334a506fd614d6",
+  "active": "5423689d7aaa5fbd",
   "lastOpenFiles": [
-    "NPCs/Барлгура.md",
+    "NPCs/Чазм.md",
+    "Pics/Pasted image 20240325001628.png",
+    "Pics/Pasted image 20240325001613.png",
     "Encounters/Банда демонов.md",
+    "NPCs/Барлгура.md",
     "NPCs/Дретч.md",
-    "Pasted image 20240325001324.png",
-    "Pasted image 20240325001304.png",
+    "Pics/Pasted image 20240325001324.png",
+    "Pics/Pasted image 20240325001304.png",
     "NPCs/кенку.md",
     "Столкновения.md",
     "Pics/Pasted image 20240325000614.png",
@@ -176,8 +177,6 @@
     "Pics/Pasted image 20240324203725.png",
     "Pics",
     "Pics/Pasted image 20240324204217.png",
-    "Pics/Pasted image 20240324204209.png",
-    "Pics/Pasted image 20240324204147.png",
     "create a link.md"
   ]
 }
