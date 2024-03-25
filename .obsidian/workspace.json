@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bec07a9784edf450",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
             "id": "2beff92519306e87",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,14 +144,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2beff92519306e87",
   "lastOpenFiles": [
-    "Hexes/A1. Топь авернуса.md",
+    "Столкновения.md",
     "Maps/MasterHex.md",
+    "Hexes/A1. Топь авернуса.md",
     "Hexes",
     "Untitled.md",
     "Excalidraw/Drawing 2024-03-25 14.56.47.excalidraw.md",
@@ -169,7 +160,6 @@
     "Encounters/Рейдеры кратеров.md",
     "NPCs/Оса преисподней.md",
     "Pics/Pasted image 20240325015430.png",
-    "Столкновения.md",
     "War Machines/Дьявольские боевые машины.md",
     "War Machines/Демонодав и Падальщик.md",
     "Encounters/Испорченный мусор.md",
