@@ -8,4 +8,3 @@ zoomDelta: 0.5
 recenter: true
 ```
 
-[[A1. Топь авернуса]]

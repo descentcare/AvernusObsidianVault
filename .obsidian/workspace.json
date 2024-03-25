@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/A1. Топь авернуса.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/A1. Топь авернуса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/A1. Топь авернуса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/MasterHex.md"
+                "file": "Hexes/A1. Топь авернуса.md"
               }
             }
           }
@@ -157,12 +157,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5423689d7aaa5fbd",
+  "active": "2beff92519306e87",
   "lastOpenFiles": [
+    "Maps/MasterHex.md",
     "Hexes/A1. Топь авернуса.md",
     "Hexes",
     "Untitled.md",
-    "Maps/MasterHex.md",
     "Excalidraw/Drawing 2024-03-25 14.56.47.excalidraw.md",
     "Excalidraw",
     "Rules/Волна дикой магии.md",
