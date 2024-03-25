@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f72e6b37c34db30f",
+        "id": "3d8b36aed7c610d7",
         "type": "tabs",
         "children": [
           {
-            "id": "41334a506fd614d6",
+            "id": "bec07a9784edf450",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2beff92519306e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/Рейдеры кратеров.md",
+                "file": "Maps/MasterHex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +98,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "bbb4dded68e41328",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maps/MasterHex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e61d89004d51c49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maps/MasterHex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "136dd2990a5ba337",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maps/MasterHex.md"
+              }
+            }
           }
         ]
       }
@@ -104,11 +152,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "41334a506fd614d6",
+  "active": "2beff92519306e87",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Maps/MasterHex.md",
+    "Excalidraw/Drawing 2024-03-25 14.56.47.excalidraw.md",
+    "Excalidraw",
     "Rules/Волна дикой магии.md",
     "Encounters/Рейдеры кратеров.md",
     "NPCs/Оса преисподней.md",
@@ -124,7 +178,6 @@
     "Pics/Pasted image 20240325014200.png",
     "War Machines/Дьяволокат и Мучитель.md",
     "War Machines",
-    "Maps/MasterHex.md",
     "Pics/AvernusHexMap.jpg",
     "Maps",
     "Pics/Pasted image 20240325012622.png",
@@ -135,7 +188,6 @@
     "Pics/Pasted image 20240325012534.png",
     "Encounters/Лагерь когорты 9-497.md",
     "Rules",
-    "Untitled.md",
     "NPCs/Камбион.md",
     "Лагерь когорты 9/497.md",
     "Лагерь когорты 9",
@@ -148,7 +200,6 @@
     "NPCs/Исчадие преисподней.md",
     "NPCs/Игольчатый дьявол.md",
     "NPCs/Бес.md",
-    "NPCs/Бородатый дьявол.md",
     "NPCs",
     "Encounters",
     "push",
