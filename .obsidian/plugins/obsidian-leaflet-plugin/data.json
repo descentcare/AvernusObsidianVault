@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "avernuxMasterHex",
-      "lastAccessed": 1711361982390,
+      "lastAccessed": 1711361602569,
       "markers": [
         {
           "id": "ID_cb091a597908",
@@ -11,7 +11,7 @@
             -0.17164084892449338,
             0.1933495104806966
           ],
-          "link": "A1. Топь авернуса",
+          "link": "A1. ",
           "layer": "%5B%5BAvernusHexMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
