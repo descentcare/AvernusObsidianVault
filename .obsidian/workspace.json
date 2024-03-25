@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Безумная Мэгги.md",
+                "file": "NPCs/Кенку в Форте.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Безумная Мэгги.md",
+                "file": "NPCs/Кенку в Форте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Безумная Мэгги.md",
+                "file": "NPCs/Кенку в Форте.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Безумная Мэгги.md"
+                "file": "NPCs/Кенку в Форте.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2beff92519306e87",
+  "active": "5423689d7aaa5fbd",
   "lastOpenFiles": [
     "Форт Костяшек.md",
+    "NPCs/Кенку в Форте.md",
+    "NPCs/Микки, мясной голем.md",
+    "Pics/MeatGolem.png",
     "NPCs/Безумная Мэгги.md",
+    "Untitled.png",
     "Items/Монета души.md",
     "Items/Оружие пламени преисподней.md",
     "NPCs/Лемур.md",
@@ -181,16 +185,12 @@
     "War Machines",
     "Pics/AvernusHexMap.jpg",
     "Maps",
-    "Pics/Pasted image 20240325012622.png",
-    "Pics/Pasted image 20240325012702.png",
     "Encounters/Лагерь когорты 9-497.md",
     "Rules",
     "NPCs/Камбион.md",
     "Лагерь когорты 9/497.md",
     "Лагерь когорты 9",
     "Encounters/Всадник в цепях.md",
-    "NPCs/Виверна.md",
-    "Encounters/Куча костей и ценностей.md",
     "NPCs",
     "Encounters",
     "push",
