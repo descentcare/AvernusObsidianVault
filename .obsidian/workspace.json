@@ -11,14 +11,11 @@
             "id": "c40b7f3d461544eb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HexGuide.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": -308,
-                  "zoom": 0
-                }
+                "file": "Encounters/Лужа-дупликатор.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "8e924f0bc1173d22",
@@ -111,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HexGuide.canvas",
+                "file": "Encounters/Лужа-дупликатор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HexGuide.canvas",
+                "file": "Encounters/Лужа-дупликатор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HexGuide.canvas"
+                "file": "Encounters/Лужа-дупликатор.md"
               }
             }
           }
@@ -163,52 +160,52 @@
   },
   "active": "c40b7f3d461544eb",
   "lastOpenFiles": [
-    "Hexes/A2. Обелиск Уббалукса.md",
-    "HexGuide.canvas",
-    "Maps/MasterHex.md",
-    "NPCs/Барлгура.md",
-    "Untitled.md",
-    "Hexes/A1. Топь авернуса.md",
+    "Pics/Pasted image 20240328013859.png",
+    "NPCs/Арканолот.md",
+    "Pics/Pasted image 20240328013939.png",
+    "Pics/Pasted image 20240328013916.png",
+    "Encounters/Лужа-дупликатор.md",
+    "Encounters/Маг погоды.md",
     "Столкновения.md",
-    "NPCs/Кенку в Форте.md",
-    "Форт Костяшек.md",
-    "NPCs/Микки, мясной голем.md",
-    "Pics/MeatGolem.png",
-    "NPCs/Безумная Мэгги.md",
-    "Untitled.png",
-    "Items/Монета души.md",
-    "Items/Оружие пламени преисподней.md",
-    "NPCs/Лемур.md",
-    "Pics/Pasted image 20240325194227.png",
-    "Pics/Pasted image 20240325194240.png",
-    "Items",
-    "Pics/Pasted image 20240325193419.png",
-    "Pics/Pasted image 20240325192300.png",
-    "Hexes",
-    "Excalidraw/Drawing 2024-03-25 14.56.47.excalidraw.md",
-    "Excalidraw",
-    "Rules/Волна дикой магии.md",
-    "Encounters/Рейдеры кратеров.md",
-    "NPCs/Оса преисподней.md",
-    "Pics/Pasted image 20240325015430.png",
-    "War Machines/Дьявольские боевые машины.md",
-    "War Machines/Демонодав и Падальщик.md",
-    "Encounters/Испорченный мусор.md",
-    "NPCs/Квазит.md",
-    "Encounters/Отряд дьяволов.md",
-    "Encounters/Банда демонов.md",
-    "Pics/Pasted image 20240325014145.png",
-    "Pics/Pasted image 20240325014200.png",
-    "War Machines/Дьяволокат и Мучитель.md",
-    "War Machines",
-    "Pics/AvernusHexMap.jpg",
-    "Maps",
+    "Encounters/Инфернальная погоня.md",
+    "NPCs/Кошмар.md",
+    "Pics/Pasted image 20240328013628.png",
+    "Pics/Pasted image 20240328013642.png",
+    "NPCs/Игольчатый дьявол.md",
+    "Encounters/Стая адских гончих.md",
+    "NPCs/Колдун исчадия.md",
+    "Pics/Pasted image 20240328012436.png",
+    "Encounters/Предательство исчадия.md",
+    "Pics/Pasted image 20240328012748.png",
     "Encounters/Лагерь когорты 9-497.md",
+    "NPCs/Воплотитель.md",
+    "Encounters/Трещина Дретчей.md",
+    "Items/Сапоги скорости.md",
+    "Items/Осенённый луной меч.md",
+    "Items/Слуховой рог.md",
+    "Hexes/A2. Обелиск Уббалукса.md",
+    "Encounters/Орда демонов или легион дьяволов.md",
+    "Rules/Осложнения погони в Авернусе.md",
+    "Pics/Pasted image 20240328010350.png",
+    "Rules/Зыбучий песок.md",
+    "NPCs/Адская гончая.md",
+    "Pics/Pasted image 20240328010409.png",
+    "Rules/Стикс.md",
+    "NPCs/Нупперибо.md",
+    "Pics/Pasted image 20240328005830.png",
+    "Rules/Волна дикой магии.md",
+    "Rules/Ихор.md",
+    "Суккуб",
+    "Maps/HexGuide.canvas",
+    "Items",
+    "Hexes",
+    "Excalidraw",
+    "War Machines",
+    "Maps",
     "Rules",
     "Лагерь когорты 9",
     "NPCs",
     "Encounters",
-    "push",
     "Untitled 1.canvas"
   ]
 }
