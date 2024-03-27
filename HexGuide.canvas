@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f89abc5e79fd5533","type":"file","file":"Hexes/A1. Топь авернуса.md","x":-460,"y":-440,"width":400,"height":100},
+		{"id":"ef96a193ad0c826c","x":-460,"y":-278,"width":400,"height":102,"type":"file","file":"Hexes/A2. Обелиск Уббалукса.md"}
+	],
+	"edges":[
+		{"id":"271fe94bb5471512","fromNode":"f89abc5e79fd5533","fromSide":"bottom","toNode":"ef96a193ad0c826c","toSide":"top"}
+	]
+}
