@@ -22,5 +22,8 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-table"
-  ]
+  ],
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }

@@ -25,26 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кузни.md",
+                "file": "Warlords/Алгоран, коллекционеры душ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9747e52e3ed9dedd",
+            "id": "ab3a3b80dda4ddf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/A1. Топь авернуса.md",
+                "file": "Слухи в Авернусе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcff8aeff846b1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexes/A4..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кузни.md",
+                "file": "Hexes/A4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кузни.md",
+                "file": "Hexes/A4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кузни.md"
+                "file": "Hexes/A4..md"
               }
             }
           }
@@ -171,46 +183,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d811c2be6e2bae24",
+  "active": "dcff8aeff846b1ac",
   "lastOpenFiles": [
-    "Погода.md",
+    "Hexes/A3. Ферма Слизней.md",
+    "Hexes/A4..md",
+    "Pics/Pasted image 20240331233802.png",
+    "Гоблин.md",
+    "Pics/Pasted image 20240331234202.png",
+    "Сахуагин.md",
+    "Pics/Pasted image 20240331234105.png",
+    "Где компоненты.md",
+    "Maps/MasterHex.md",
+    "Hexes/A2. Обелиск Уббалукса.md",
+    "Warlords/Алгоран, коллекционеры душ.md",
+    "Hexes/D2a. Логово Кэрол Д'воун.md",
+    "Pics/Pasted image 20240331233415.png",
+    "Hexes/A5. Логово Затерянного Голгари.md",
+    "Pics/Pasted image 20240331233451.png",
+    "Pics/Pasted image 20240331231449.png",
+    "Слухи в Авернусе.md",
+    "Pics/Compas.png",
     "Кузни.md",
+    "Hexes/E2. Шахта щупалец.md",
+    "War Machines/Дьявольские боевые машины.md",
+    "Pics/Pasted image 20240325012637.png",
+    "War Machines/Демонодав и Падальщик.md",
+    "War Machines/Дьяволокат и Мучитель.md",
+    "Hexes/B6. Логово коллекционеров душ.md",
+    "NPCs/Тулгары.md",
+    "NPCs/Алгоран.md",
     "Столкновения.md",
+    "Maps/HexGuide.canvas",
+    "Pics/Pasted image 20240331220227.png",
     "Форт Костяшек.md",
-    "Pics/Pasted image 20240331142713.png",
-    "Pics/Pasted image 20240331143205.png",
-    "Pics/Pasted image 20240331143143.png",
-    "Pics/Pasted image 20240331143124.png",
-    "Pics/Pasted image 20240331140157.png",
-    "Pics/Pasted image 20240331140204.png",
-    "Pics/Pasted image 20240328160951.png",
+    "Pics/Pasted image 20240331191654.png",
+    "Warlords",
+    "Погода.md",
     "Encounters/Трещина Дретчей.md",
-    "Pics/Pasted image 20240328161644.png",
-    "Pics/Pasted image 20240328160600.png",
-    "Pics/20210407b.png",
     "Encounters/Лужа-дупликатор.md",
     "NPCs/Арканолот.md",
     "Encounters/Маг погоды.md",
-    "Encounters/Инфернальная погоня.md",
-    "NPCs/Кошмар.md",
-    "NPCs/Игольчатый дьявол.md",
-    "Encounters/Стая адских гончих.md",
-    "NPCs/Колдун исчадия.md",
-    "Encounters/Предательство исчадия.md",
-    "Encounters/Лагерь когорты 9-497.md",
-    "NPCs/Воплотитель.md",
-    "Items/Сапоги скорости.md",
-    "Items/Осенённый луной меч.md",
-    "Items/Слуховой рог.md",
-    "Hexes/A2. Обелиск Уббалукса.md",
-    "Encounters/Орда демонов или легион дьяволов.md",
-    "Rules/Осложнения погони в Авернусе.md",
-    "Rules/Зыбучий песок.md",
-    "NPCs/Адская гончая.md",
-    "Rules/Стикс.md",
-    "NPCs/Нупперибо.md",
     "Суккуб",
-    "Maps/HexGuide.canvas",
     "Items",
     "Hexes",
     "Excalidraw",
@@ -219,7 +232,6 @@
     "Rules",
     "Лагерь когорты 9",
     "NPCs",
-    "Encounters",
     "Untitled 1.canvas"
   ]
 }
