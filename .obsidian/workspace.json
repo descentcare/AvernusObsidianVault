@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/Лужа-дупликатор.md",
+                "file": "Погода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d811c2be6e2bae24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кузни.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/Лужа-дупликатор.md",
+                "file": "Кузни.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/Лужа-дупликатор.md",
+                "file": "Кузни.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/Лужа-дупликатор.md"
+                "file": "Кузни.md"
               }
             }
           }
@@ -158,43 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c40b7f3d461544eb",
+  "active": "d811c2be6e2bae24",
   "lastOpenFiles": [
-    "Pics/Pasted image 20240328013859.png",
-    "NPCs/Арканолот.md",
-    "Pics/Pasted image 20240328013939.png",
-    "Pics/Pasted image 20240328013916.png",
-    "Encounters/Лужа-дупликатор.md",
-    "Encounters/Маг погоды.md",
+    "Погода.md",
+    "Кузни.md",
     "Столкновения.md",
+    "Форт Костяшек.md",
+    "Pics/Pasted image 20240331142713.png",
+    "Pics/Pasted image 20240331143205.png",
+    "Pics/Pasted image 20240331143143.png",
+    "Pics/Pasted image 20240331143124.png",
+    "Pics/Pasted image 20240331140157.png",
+    "Pics/Pasted image 20240331140204.png",
+    "Pics/Pasted image 20240328160951.png",
+    "Encounters/Трещина Дретчей.md",
+    "Pics/Pasted image 20240328161644.png",
+    "Pics/Pasted image 20240328160600.png",
+    "Pics/20210407b.png",
+    "Encounters/Лужа-дупликатор.md",
+    "NPCs/Арканолот.md",
+    "Encounters/Маг погоды.md",
     "Encounters/Инфернальная погоня.md",
     "NPCs/Кошмар.md",
-    "Pics/Pasted image 20240328013628.png",
-    "Pics/Pasted image 20240328013642.png",
     "NPCs/Игольчатый дьявол.md",
     "Encounters/Стая адских гончих.md",
     "NPCs/Колдун исчадия.md",
-    "Pics/Pasted image 20240328012436.png",
     "Encounters/Предательство исчадия.md",
-    "Pics/Pasted image 20240328012748.png",
     "Encounters/Лагерь когорты 9-497.md",
     "NPCs/Воплотитель.md",
-    "Encounters/Трещина Дретчей.md",
     "Items/Сапоги скорости.md",
     "Items/Осенённый луной меч.md",
     "Items/Слуховой рог.md",
     "Hexes/A2. Обелиск Уббалукса.md",
     "Encounters/Орда демонов или легион дьяволов.md",
     "Rules/Осложнения погони в Авернусе.md",
-    "Pics/Pasted image 20240328010350.png",
     "Rules/Зыбучий песок.md",
     "NPCs/Адская гончая.md",
-    "Pics/Pasted image 20240328010409.png",
     "Rules/Стикс.md",
     "NPCs/Нупперибо.md",
-    "Pics/Pasted image 20240328005830.png",
-    "Rules/Волна дикой магии.md",
-    "Rules/Ихор.md",
     "Суккуб",
     "Maps/HexGuide.canvas",
     "Items",
