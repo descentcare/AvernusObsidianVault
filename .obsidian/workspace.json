@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/A4..md",
+                "file": "Maps/MasterHex.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "right": {
     "id": "8e924f0bc1173d22",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/A4..md",
+                "file": "Maps/MasterHex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/A4..md",
+                "file": "Maps/MasterHex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/A4..md"
+                "file": "Maps/MasterHex.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "dcff8aeff846b1ac",
   "lastOpenFiles": [
+    "Hexes/A4. Арки Уллоха.md",
     "Hexes/A3. Ферма Слизней.md",
-    "Hexes/A4..md",
     "Pics/Pasted image 20240331233802.png",
     "Гоблин.md",
     "Pics/Pasted image 20240331234202.png",
