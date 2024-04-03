@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Где компоненты.md",
+                "file": "Форт Костяшек.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Где компоненты.md",
+                "file": "Форт Костяшек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Где компоненты.md",
+                "file": "Форт Костяшек.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Где компоненты.md"
+                "file": "Форт Костяшек.md"
               }
             }
           }
@@ -209,6 +209,29 @@
   },
   "active": "3cca9a226904916e",
   "lastOpenFiles": [
+    "War Machines/Дьяволокат и Мучитель.md",
+    "Warlords/Алгоран, коллекционеры душ.md",
+    "Кузни.md",
+    "Где компоненты.md",
+    "Warlords/Раггадрагга.md",
+    "NPCs/Шпилька и Игла.md",
+    "Форт Костяшек.md",
+    "NPCs/Барнабас.md",
+    "NPCs/красные колпаки.md",
+    "Pics/Pasted image 20240403173250.png",
+    "NPCs/Огненный череп.md",
+    "Pics/Pasted image 20240403173054.png",
+    "Столкновения.md",
+    "Pics/Pasted image 20240403172914.png",
+    "NPCs/Веркрыса.md",
+    "Pics/Pasted image 20240403172921.png",
+    "Maps/MasterHex.md",
+    "NPCs/Вервепрь.md",
+    "Pics/Pasted image 20240403172702.png",
+    "Pics/Pasted image 20240403172718.png",
+    "Hexes/I4. Форт Костяшек.md",
+    "Hexes/A5. Логово Затерянного Голгари.md",
+    "NPCs/Безумная Мэгги.md",
     "NPCs/Сахуагин.md",
     "NPCs/Гоблин.md",
     "Hexes/A4. Арки Уллоха.md",
@@ -216,37 +239,14 @@
     "Pics/Pasted image 20240331233802.png",
     "Pics/Pasted image 20240331234202.png",
     "Pics/Pasted image 20240331234105.png",
-    "Где компоненты.md",
-    "Maps/MasterHex.md",
     "Hexes/A2. Обелиск Уббалукса.md",
-    "Warlords/Алгоран, коллекционеры душ.md",
     "Hexes/D2a. Логово Кэрол Д'воун.md",
     "Pics/Pasted image 20240331233415.png",
-    "Hexes/A5. Логово Затерянного Голгари.md",
-    "Pics/Pasted image 20240331233451.png",
-    "Pics/Pasted image 20240331231449.png",
     "Слухи в Авернусе.md",
-    "Pics/Compas.png",
-    "Кузни.md",
     "Hexes/E2. Шахта щупалец.md",
     "War Machines/Дьявольские боевые машины.md",
-    "Pics/Pasted image 20240325012637.png",
-    "War Machines/Демонодав и Падальщик.md",
-    "War Machines/Дьяволокат и Мучитель.md",
-    "Hexes/B6. Логово коллекционеров душ.md",
-    "NPCs/Тулгары.md",
-    "NPCs/Алгоран.md",
-    "Столкновения.md",
     "Maps/HexGuide.canvas",
-    "Pics/Pasted image 20240331220227.png",
-    "Форт Костяшек.md",
-    "Pics/Pasted image 20240331191654.png",
     "Warlords",
-    "Погода.md",
-    "Encounters/Трещина Дретчей.md",
-    "Encounters/Лужа-дупликатор.md",
-    "NPCs/Арканолот.md",
-    "Encounters/Маг погоды.md",
     "Суккуб",
     "Items",
     "Hexes",
