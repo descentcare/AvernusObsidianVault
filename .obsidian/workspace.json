@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "Hexes/A5. Логово Затерянного Голгари.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad40746ab92b442d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "NPCs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Форт Костяшек.md",
+                "file": "NPCs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Форт Костяшек.md"
+                "file": "NPCs/Untitled.md"
               }
             }
           }
@@ -207,11 +219,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cca9a226904916e",
+  "active": "ad40746ab92b442d",
   "lastOpenFiles": [
+    "Templates/NpcKey.md",
+    "NPCs/Untitled.md",
+    "Maps/MasterHex.md",
+    "Hexes/A5. Логово Затерянного Голгари.md",
+    "Templates",
+    "Hexes/B6. Логово коллекционеров душ.md",
+    "Кузни.md",
+    "Hexes/A4. Арки Уллоха.md",
+    "Hexes/A3. Ферма Слизней.md",
+    "Hexes/A2. Обелиск Уббалукса.md",
+    "Hexes/A1. Топь авернуса.md",
+    "Погода.md",
     "War Machines/Дьяволокат и Мучитель.md",
     "Warlords/Алгоран, коллекционеры душ.md",
-    "Кузни.md",
     "Где компоненты.md",
     "Warlords/Раггадрагга.md",
     "NPCs/Шпилька и Игла.md",
@@ -225,26 +248,16 @@
     "Pics/Pasted image 20240403172914.png",
     "NPCs/Веркрыса.md",
     "Pics/Pasted image 20240403172921.png",
-    "Maps/MasterHex.md",
     "NPCs/Вервепрь.md",
     "Pics/Pasted image 20240403172702.png",
     "Pics/Pasted image 20240403172718.png",
     "Hexes/I4. Форт Костяшек.md",
-    "Hexes/A5. Логово Затерянного Голгари.md",
     "NPCs/Безумная Мэгги.md",
     "NPCs/Сахуагин.md",
-    "NPCs/Гоблин.md",
-    "Hexes/A4. Арки Уллоха.md",
-    "Hexes/A3. Ферма Слизней.md",
     "Pics/Pasted image 20240331233802.png",
     "Pics/Pasted image 20240331234202.png",
     "Pics/Pasted image 20240331234105.png",
-    "Hexes/A2. Обелиск Уббалукса.md",
-    "Hexes/D2a. Логово Кэрол Д'воун.md",
     "Pics/Pasted image 20240331233415.png",
-    "Слухи в Авернусе.md",
-    "Hexes/E2. Шахта щупалец.md",
-    "War Machines/Дьявольские боевые машины.md",
     "Maps/HexGuide.canvas",
     "Warlords",
     "Суккуб",
@@ -255,7 +268,6 @@
     "Maps",
     "Rules",
     "Лагерь когорты 9",
-    "NPCs",
     "Untitled 1.canvas"
   ]
 }
