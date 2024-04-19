@@ -85,14 +85,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Untitled.md",
+                "file": "Hexes/J6. Лагерь девятой когорты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1caff3a8d4131c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "War Machines/Демонодав.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cffceb6890f4638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "War Machines/Дьявольские боевые машины.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -169,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Untitled.md",
+                "file": "War Machines/Дьявольские боевые машины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Untitled.md",
+                "file": "War Machines/Дьявольские боевые машины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Untitled.md"
+                "file": "War Machines/Дьявольские боевые машины.md"
               }
             }
           }
@@ -219,45 +243,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad40746ab92b442d",
+  "active": "2cffceb6890f4638",
   "lastOpenFiles": [
-    "Templates/NpcKey.md",
-    "NPCs/Untitled.md",
-    "Maps/MasterHex.md",
-    "Hexes/A5. Логово Затерянного Голгари.md",
-    "Templates",
-    "Hexes/B6. Логово коллекционеров душ.md",
-    "Кузни.md",
-    "Hexes/A4. Арки Уллоха.md",
-    "Hexes/A3. Ферма Слизней.md",
-    "Hexes/A2. Обелиск Уббалукса.md",
-    "Hexes/A1. Топь авернуса.md",
-    "Погода.md",
-    "War Machines/Дьяволокат и Мучитель.md",
-    "Warlords/Алгоран, коллекционеры душ.md",
-    "Где компоненты.md",
+    "War Machines/Дьяволокат.md",
+    "War Machines/Демонодав и Падальщик.md",
     "Warlords/Раггадрагга.md",
-    "NPCs/Шпилька и Игла.md",
-    "Форт Костяшек.md",
-    "NPCs/Барнабас.md",
-    "NPCs/красные колпаки.md",
-    "Pics/Pasted image 20240403173250.png",
-    "NPCs/Огненный череп.md",
-    "Pics/Pasted image 20240403173054.png",
-    "Столкновения.md",
-    "Pics/Pasted image 20240403172914.png",
-    "NPCs/Веркрыса.md",
-    "Pics/Pasted image 20240403172921.png",
-    "NPCs/Вервепрь.md",
-    "Pics/Pasted image 20240403172702.png",
-    "Pics/Pasted image 20240403172718.png",
-    "Hexes/I4. Форт Костяшек.md",
-    "NPCs/Безумная Мэгги.md",
-    "NPCs/Сахуагин.md",
-    "Pics/Pasted image 20240331233802.png",
-    "Pics/Pasted image 20240331234202.png",
-    "Pics/Pasted image 20240331234105.png",
-    "Pics/Pasted image 20240331233415.png",
+    "NPCs/Кенку в Форте.md",
+    "Warlords/Алгоран, коллекционеры душ.md",
+    "War Machines/Дьяволокат и Мучитель.md",
+    "Encounters/Испорченный мусор.md",
+    "War Machines/Демонодав.md",
+    "Pics/Screenshot 2024-04-19 231339.png",
+    "Pics/Screenshot_2024-04-03-18-10-39-663_com.artifex.mupdf.viewer.app.jpg",
+    "Pics/Pasted image 20240419231148.png",
+    "Warlords/Феонор.md",
+    "NPCs/Архимаг.md",
+    "Pics/Screenshot 2024-04-19 225435.png",
+    "Pics/Pasted image 20240419225236.png",
+    "Warlords/Кэрол Д'воун.md",
+    "Hexes/D2a. Логово Кэрол Д'воун.md",
+    "Hexes/F4. Кровоточащий струп.md",
+    "Maps/MasterHex.md",
+    "Rules/Стикс.md",
+    "Spells/слабоумие.md",
+    "Spells",
+    "Pics/Pasted image 20240419191111.png",
+    "War Machines/Дьявольские боевые машины.md",
+    "NPCs/Щитостраж.md",
+    "Pics/Pasted image 20240419173228.png",
+    "NPCs/изменённый Шлемоносный ужас.md",
+    "Hexes/J6. Лагерь девятой когорты.md",
+    "Encounters/Лагерь когорты 9-497.md",
+    "Hexes/A3. Ферма Слизней.md",
+    "Pics/Pasted image 20240415211904.png",
+    "Pasted image 20240415211904.png.md",
+    "Pics/Pasted image 20240415211904 1.png",
+    "Hexes/E2. Шахта щупалец.md",
+    "NPCs/Инфернальный гомункул.md",
+    "Pics/Pasted image 20240415211148.png",
+    "Где компоненты.md",
+    "Templates",
     "Maps/HexGuide.canvas",
     "Warlords",
     "Суккуб",
@@ -267,7 +292,6 @@
     "War Machines",
     "Maps",
     "Rules",
-    "Лагерь когорты 9",
     "Untitled 1.canvas"
   ]
 }
