@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "War Machines/Дьявольские боевые машины.md",
-                "mode": "source",
+                "file": "hexhtmltest.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "War Machines/Дьявольские боевые машины.md",
+                "file": "hexhtmltest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "War Machines/Дьявольские боевые машины.md",
+                "file": "hexhtmltest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "War Machines/Дьявольские боевые машины.md"
+                "file": "hexhtmltest.md"
               }
             }
           }
@@ -245,43 +245,43 @@
   },
   "active": "2cffceb6890f4638",
   "lastOpenFiles": [
-    "War Machines/Дьяволокат.md",
-    "War Machines/Демонодав и Падальщик.md",
-    "Warlords/Раггадрагга.md",
-    "NPCs/Кенку в Форте.md",
-    "Warlords/Алгоран, коллекционеры душ.md",
-    "War Machines/Дьяволокат и Мучитель.md",
-    "Encounters/Испорченный мусор.md",
-    "War Machines/Демонодав.md",
-    "Pics/Screenshot 2024-04-19 231339.png",
-    "Pics/Screenshot_2024-04-03-18-10-39-663_com.artifex.mupdf.viewer.app.jpg",
-    "Pics/Pasted image 20240419231148.png",
-    "Warlords/Феонор.md",
-    "NPCs/Архимаг.md",
-    "Pics/Screenshot 2024-04-19 225435.png",
-    "Pics/Pasted image 20240419225236.png",
-    "Warlords/Кэрол Д'воун.md",
-    "Hexes/D2a. Логово Кэрол Д'воун.md",
-    "Hexes/F4. Кровоточащий струп.md",
+    "Hexes/A1. Топь авернуса.md",
+    "hexhtmltest.md",
+    "Кузни.md",
     "Maps/MasterHex.md",
-    "Rules/Стикс.md",
-    "Spells/слабоумие.md",
-    "Spells",
-    "Pics/Pasted image 20240419191111.png",
-    "War Machines/Дьявольские боевые машины.md",
-    "NPCs/Щитостраж.md",
-    "Pics/Pasted image 20240419173228.png",
-    "NPCs/изменённый Шлемоносный ужас.md",
-    "Hexes/J6. Лагерь девятой когорты.md",
-    "Encounters/Лагерь когорты 9-497.md",
+    "NPCs/Бел.md",
+    "NPCs/Кощище.md",
+    "Pics/Pasted image 20240421223316.png",
+    "NPCs/Крокек'тоик.md",
+    "NPCs/Гнолл клык йеногу.md",
+    "Pics/Pasted image 20240421223204.png",
+    "NPCs/Гнолл.md",
+    "NPCs/Pasted image 20240421223117.png",
+    "NPCs/Врок.md",
+    "Pics/Pasted image 20240421222932.png",
+    "Pics/Pasted image 20240421222915.png",
+    "Pics/Pasted image 20240421220325.png",
+    "Pics/Pasted image 20240421220346.png",
+    "Hexes/H2. Кузня Бела.md",
+    "NPCs/Огненный великан.md",
+    "Pics/Pasted image 20240421215818.png",
+    "Pics/Pasted image 20240421215832.png",
+    "Rules/Лава.md",
+    "Rules/Чрезвычайная жара.md",
+    "NPCs/Бородатый дьявол.md",
+    "Рогатый дьявол.md",
+    "Pics/Pasted image 20240421194831.png",
+    "Hexes/I3. Круг пламени.md",
+    "Hexes/I4. Форт Костяшек.md",
+    "Hexes/B6. Логово коллекционеров душ.md",
+    "Hexes/A6. Логово Горького Дыхания.md",
+    "Форт Костяшек.md",
+    "Hexes/A5. Логово Затерянного Голгари.md",
+    "Warlords/Раггадрагга.md",
+    "Hexes/A4. Арки Уллоха.md",
     "Hexes/A3. Ферма Слизней.md",
-    "Pics/Pasted image 20240415211904.png",
-    "Pasted image 20240415211904.png.md",
-    "Pics/Pasted image 20240415211904 1.png",
-    "Hexes/E2. Шахта щупалец.md",
-    "NPCs/Инфернальный гомункул.md",
-    "Pics/Pasted image 20240415211148.png",
-    "Где компоненты.md",
+    "Hexes/A2. Обелиск Уббалукса.md",
+    "Spells",
     "Templates",
     "Maps/HexGuide.canvas",
     "Warlords",
