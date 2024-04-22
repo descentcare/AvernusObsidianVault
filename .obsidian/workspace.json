@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e2866cec2763893c",
+        "id": "4059e981856c7b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "c40b7f3d461544eb",
+            "id": "8feb086c37c9f60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Погода.md",
+                "file": "Hexes/J4. Храм сломанного принца.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d811c2be6e2bae24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warlords/Алгоран, коллекционеры душ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab3a3b80dda4ddf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Слухи в Авернусе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcff8aeff846b1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps/MasterHex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc0fb57cb9c285e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Гоблин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cca9a226904916e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexes/A5. Логово Затерянного Голгари.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad40746ab92b442d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexes/J6. Лагерь девятой когорты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1caff3a8d4131c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "War Machines/Демонодав.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cffceb6890f4638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hexhtmltest.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hexhtmltest.md",
+                "file": "Hexes/J4. Храм сломанного принца.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hexhtmltest.md",
+                "file": "Hexes/J4. Храм сломанного принца.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hexhtmltest.md"
+                "file": "Hexes/J4. Храм сломанного принца.md"
               }
             }
           }
@@ -243,44 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cffceb6890f4638",
+  "active": "8feb086c37c9f60e",
   "lastOpenFiles": [
-    "Hexes/A1. Топь авернуса.md",
-    "hexhtmltest.md",
-    "Кузни.md",
+    "NPCs/Тираннозавр Рекс.md",
+    "Pics/Pasted image 20240422175329.png",
+    "Hexes/J4. Храм сломанного принца.md",
     "Maps/MasterHex.md",
-    "NPCs/Бел.md",
-    "NPCs/Кощище.md",
-    "Pics/Pasted image 20240421223316.png",
-    "NPCs/Крокек'тоик.md",
-    "NPCs/Гнолл клык йеногу.md",
-    "Pics/Pasted image 20240421223204.png",
-    "NPCs/Гнолл.md",
-    "NPCs/Pasted image 20240421223117.png",
-    "NPCs/Врок.md",
-    "Pics/Pasted image 20240421222932.png",
-    "Pics/Pasted image 20240421222915.png",
-    "Pics/Pasted image 20240421220325.png",
-    "Pics/Pasted image 20240421220346.png",
-    "Hexes/H2. Кузня Бела.md",
-    "NPCs/Огненный великан.md",
-    "Pics/Pasted image 20240421215818.png",
-    "Pics/Pasted image 20240421215832.png",
-    "Rules/Лава.md",
-    "Rules/Чрезвычайная жара.md",
-    "NPCs/Бородатый дьявол.md",
-    "Рогатый дьявол.md",
-    "Pics/Pasted image 20240421194831.png",
-    "Hexes/I3. Круг пламени.md",
-    "Hexes/I4. Форт Костяшек.md",
-    "Hexes/B6. Логово коллекционеров душ.md",
-    "Hexes/A6. Логово Горького Дыхания.md",
-    "Форт Костяшек.md",
-    "Hexes/A5. Логово Затерянного Голгари.md",
+    "Hexes/J6. Лагерь девятой когорты.md",
+    "Items/Вилий Воплощенный.md",
+    "NPCs/культист.md",
+    "Pics/Pasted image 20240422171905.png",
+    "Pics/Pasted image 20240422170453.png",
+    "Hexes/J3. Логово Раггадрагги.md",
     "Warlords/Раггадрагга.md",
-    "Hexes/A4. Арки Уллоха.md",
-    "Hexes/A3. Ферма Слизней.md",
-    "Hexes/A2. Обелиск Уббалукса.md",
+    "Pics/Pasted image 20240422165016.png",
+    "Hexes/A6. Логово Горького дыхания.md",
+    "NPCs/Горькое Дыхание.md",
+    "Warlords/Алгоран, коллекционеры душ.md",
+    "Pics/Screenshot 2024-04-22 164711.png",
+    "Items/адские вилы.md",
+    "Pics/Pasted image 20240422164533.png",
+    "NPCs/инфернальный хобгоблин-опустошитель.md",
+    "Pics/Screenshot 2024-04-22 164143.png",
+    "NPCs/Высокий Градж Каркаджук.md",
+    "Pics/Screenshot 2024-04-22 164049.png",
+    "Hexes/A6. Логово Горького Дыхания.md",
+    "Items/инфернальная подзорная труба.md",
+    "Pics/Pasted image 20240422163458.png",
+    "NPCs/инфернальная пушка.md",
+    "Pics/Pasted image 20240422163330.png",
+    "NPCs/инфернальный хобгоблин.md",
+    "NPCs/инфернальный хобгоблин-капитан.md",
+    "Hexes/I3. Круг пламени.md",
+    "Hexes/H2. Кузня Бела.md",
+    "Hexes/B1. Башня Аркона.md",
+    "Hexes/I2. Логово Феонор.md",
+    "War Machines/Демонодав.md",
+    "Hexes/A5. Логово Затерянного Голгари.md",
     "Spells",
     "Templates",
     "Maps/HexGuide.canvas",
