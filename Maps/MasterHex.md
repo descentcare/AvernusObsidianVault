@@ -14,56 +14,56 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 D1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 E1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 F1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 H1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 I1
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 J1
             </a>
@@ -78,14 +78,14 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 B2
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C2
             </a>
@@ -106,14 +106,14 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 F2
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G2
             </a>
@@ -134,7 +134,7 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 J2
             </a>
@@ -149,49 +149,49 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 B3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 D3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 E3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 F3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G3
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 H3
             </a>
@@ -220,28 +220,28 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 B4
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C4
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 D4
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 E4
             </a>
@@ -255,14 +255,14 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G4
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 H4
             </a>
@@ -291,14 +291,14 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 B5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C5
             </a>
@@ -312,42 +312,42 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 E5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 F5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 H5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 I5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 J5
             </a>
@@ -369,49 +369,49 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 C6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 D6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 E6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 F6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 G6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 H6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=">
                 I6
             </a>

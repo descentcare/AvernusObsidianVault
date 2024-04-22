@@ -69,3 +69,8 @@
     color: #0f0;
     text-decoration: none;
 }
+
+.empty a {
+    color: #f00;
+}
+
