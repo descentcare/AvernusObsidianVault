@@ -262,8 +262,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\H4. Стигийские доки.md">
                 H4
             </a>
         </div>
@@ -333,8 +333,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\H5. Элементальный галеон.md">
                 H5
             </a>
         </div>

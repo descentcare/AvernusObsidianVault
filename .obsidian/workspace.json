@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8feb086c37c9f60e",
+            "id": "c34ba78bf171c5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/MasterHex.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab0d89c27f02c7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main quest/Квест авернуса.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e388e80f29d6c0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/курица Бездны.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56db0bf29c081bd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hexes/H4. Стигийские доки.md"
               }
             }
           }
@@ -183,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56db0bf29c081bd3",
+  "active": "c34ba78bf171c5c4",
   "lastOpenFiles": [
-    "NPCs/курица Бездны.md",
-    "README.md",
-    "Hexes/I5. Плодящиеся деревья.md",
+    "NPCs/Глабрезу.md",
+    "Hexes/H4. Стигийские доки.md",
+    "NPCs/Врок.md",
+    "NPCs/Рогатый дьявол.md",
+    "NPCs/Костяной дьявол.md",
+    "NPCs/Шипастый дьявол.md",
     "Maps/MasterHex.md",
-    "Main quest/Откровения.md",
-    "Main quest/Квест авернуса.md",
-    "Main quest",
-    "Pics/Карта для штурма 1.png",
-    "Pics/Карта для штурма 3.png",
-    "Pics/Карта для штурма 2.png",
-    "Hexes/J4. Храм сломанного принца.md",
-    "NPCs/Тираннозавр Рекс.md",
-    "Pics/Pasted image 20240422175329.png",
-    "Hexes/J6. Лагерь девятой когорты.md",
-    "Items/Вилий Воплощенный.md",
-    "NPCs/культист.md",
-    "Pics/Pasted image 20240422171905.png",
-    "Pics/Pasted image 20240422170453.png",
-    "Hexes/J3. Логово Раггадрагги.md",
-    "Warlords/Раггадрагга.md",
-    "Pics/Pasted image 20240422165016.png",
-    "Hexes/A6. Логово Горького дыхания.md",
-    "NPCs/Горькое Дыхание.md",
-    "Warlords/Алгоран, коллекционеры душ.md",
-    "Pics/Screenshot 2024-04-22 164711.png",
-    "Items/адские вилы.md",
-    "Pics/Pasted image 20240422164533.png",
-    "NPCs/инфернальный хобгоблин-опустошитель.md",
-    "Pics/Screenshot 2024-04-22 164143.png",
-    "NPCs/Высокий Градж Каркаджук.md",
-    "Hexes/A6. Логово Горького Дыхания.md",
-    "Items/инфернальная подзорная труба.md",
-    "NPCs/инфернальная пушка.md",
-    "NPCs/инфернальный хобгоблин.md",
-    "NPCs/инфернальный хобгоблин-капитан.md",
-    "Hexes/I3. Круг пламени.md",
+    "Hexes/H5. Элементальный галеон.md",
+    "NPCs/Воркас.md",
+    "NPCs/Арканолот.md",
+    "Pics/Screenshot 2024-05-05 190139.png",
+    "Pics/Pasted image 20240328013916.png",
+    "Pics/Pasted image 20240328013859.png",
+    "NPCs/Барриэль.md",
+    "Pics/Pasted image 20240505185921.png",
+    "Spells/Слабоумие.md",
+    "Items/Железная фляга.md",
+    "Pics/Pasted image 20240505185350.png",
+    "Pics/Pasted image 20240505184035.png",
+    "NPCs/Водный элементаль.md",
+    "Pics/Screenshot 2024-05-05 183054.png",
+    "NPCs/Меззолот.md",
+    "Items/Баллиста.md",
+    "Pics/Pasted image 20240505182413.png",
+    "Rules/Волна дикой магии.md",
+    "Pics/Pasted image 20240505173327.png",
     "Hexes/H2. Кузня Бела.md",
+    "Pics/Pasted image 20240421223117.png",
+    "NPCs/Гнолл.md",
+    "NPCs/Untitled.md",
+    "Hexes/D2.md",
+    "Столкновения.md",
+    "Слухи в Авернусе.md",
+    "War Machines/Дьявольские боевые машины.md",
+    "Rules/Стикс.md",
+    "War Machines/Демонодав.md",
+    "Main quest",
     "Spells",
     "Templates",
     "Maps/HexGuide.canvas",
