@@ -7,7 +7,7 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent">
+        <div class="hexagontent empty">
             <a href="obsidian://open?vault-notes&file=Hexes\B1. Башня Аркона.md">
                 B1
             </a>
@@ -113,8 +113,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\G2. Трещина Дретчей и Стигийская рампа.md">
                 G2
             </a>
         </div>
@@ -134,8 +134,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\J2. Утроба Кощища.md">
                 J2
             </a>
         </div>
@@ -170,8 +170,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\E3. Гнездо Ос преисподней.md">
                 E3
             </a>
         </div>
@@ -184,8 +184,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\G3. Холм Харумана.md">
                 G3
             </a>
         </div>
@@ -255,8 +255,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\G4. Омут ихора.md">
                 G4
             </a>
         </div>

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
-                "mode": "source",
+                "file": "Hexes/B6. Логово коллекционеров душ.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
+                "file": "Hexes/B6. Логово коллекционеров душ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
+                "file": "Hexes/B6. Логово коллекционеров душ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md"
+                "file": "Hexes/B6. Логово коллекционеров душ.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "c34ba78bf171c5c4",
   "lastOpenFiles": [
-    "NPCs/Глабрезу.md",
-    "Hexes/H4. Стигийские доки.md",
-    "NPCs/Врок.md",
-    "NPCs/Рогатый дьявол.md",
-    "NPCs/Костяной дьявол.md",
-    "NPCs/Шипастый дьявол.md",
     "Maps/MasterHex.md",
-    "Hexes/H5. Элементальный галеон.md",
-    "NPCs/Воркас.md",
-    "NPCs/Арканолот.md",
-    "Pics/Screenshot 2024-05-05 190139.png",
-    "Pics/Pasted image 20240328013916.png",
-    "Pics/Pasted image 20240328013859.png",
-    "NPCs/Барриэль.md",
-    "Pics/Pasted image 20240505185921.png",
-    "Spells/Слабоумие.md",
-    "Items/Железная фляга.md",
-    "Pics/Pasted image 20240505185350.png",
-    "Pics/Pasted image 20240505184035.png",
-    "NPCs/Водный элементаль.md",
-    "Pics/Screenshot 2024-05-05 183054.png",
-    "NPCs/Меззолот.md",
-    "Items/Баллиста.md",
-    "Pics/Pasted image 20240505182413.png",
-    "Rules/Волна дикой магии.md",
-    "Pics/Pasted image 20240505173327.png",
-    "Hexes/H2. Кузня Бела.md",
-    "Pics/Pasted image 20240421223117.png",
-    "NPCs/Гнолл.md",
-    "NPCs/Untitled.md",
-    "Hexes/D2.md",
+    "Hexes/B6. Логово коллекционеров душ.md",
+    "Hexes/D5. Могила Ульдрака.md",
+    "Hexes/B1. Башня Аркона.md",
+    "Hexes/I4. Форт Костяшек.md",
+    "Hexes/A5. Логово Затерянного Голгари.md",
+    "Hexes/E3. Гнездо Ос преисподней.md",
+    "NPCs/Гигантская многоножка.md",
+    "Pics/Pasted image 20240508172052.png",
+    "Pics/Pasted image 20240508171059.png",
+    "Hexes/G3. Холм Харумана.md",
+    "NPCs/Нарзугон.md",
+    "NPCs/Харуман.md",
+    "NPCs/Джандер Санстар.md",
+    "Pics/Pasted image 20240508165450.png",
+    "NPCs/Вампир.md",
+    "NPCs/Кровопийца.md",
+    "Pics/Screenshot 2024-05-08 165244.png",
+    "Pics/Screenshot 2024-05-08 164954.png",
+    "Pics/Pasted image 20240508164939.png",
+    "Pics/Pasted image 20240508164933.png",
+    "Pics/Pasted image 20240508164754.png",
+    "Pics/Pasted image 20240508164739.png",
+    "Hexes/H4. Стигийские доки.md",
+    "Items/Дьявольская сбруя.md",
+    "Pics/Pasted image 20240508155612.png",
+    "Hexes/G4. Омут ихора.md",
+    "Hexes/G2. Трещина Дретчей и Стигийская рампа.md",
     "Столкновения.md",
-    "Слухи в Авернусе.md",
+    "Hexes/G2a. Трещина Дретчей.md",
     "War Machines/Дьявольские боевые машины.md",
-    "Rules/Стикс.md",
     "War Machines/Демонодав.md",
+    "War Machines/Мучитель.md",
+    "War Machines/Дьяволокат.md",
+    "War Machines/Падальщик.md",
+    "Hexes/J2. Утроба Кощища.md",
     "Main quest",
     "Spells",
     "Templates",
