@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/B6. Логово коллекционеров душ.md",
-                "mode": "preview",
+                "file": "Hexes/I6. Башня Делкафари.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/B6. Логово коллекционеров душ.md",
+                "file": "Hexes/I6. Башня Делкафари.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/B6. Логово коллекционеров душ.md",
+                "file": "Hexes/I6. Башня Делкафари.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/B6. Логово коллекционеров душ.md"
+                "file": "Hexes/I6. Башня Делкафари.md"
               }
             }
           }
@@ -149,41 +149,40 @@
   "active": "c34ba78bf171c5c4",
   "lastOpenFiles": [
     "Maps/MasterHex.md",
-    "Hexes/B6. Логово коллекционеров душ.md",
-    "Hexes/D5. Могила Ульдрака.md",
-    "Hexes/B1. Башня Аркона.md",
+    "Hexes/I6. Башня Делкафари.md",
+    "Pics/Pasted image 20240515162124.png",
+    "Hexes/F4. Кровоточащий струп.md",
+    "Hexes/G5. Мост и чумной щит.md",
+    "Hexes/G5b. Чумной щит.md",
+    "Hexes/H6. Аванпост модронов.md",
+    "NPCs/Пентадрон.md",
+    "Pics/Pasted image 20240515160637.png",
+    "Pics/Pasted image 20240515160627.png",
+    "NPCs/Квадрон.md",
+    "Pics/Pasted image 20240515160612.png",
+    "Pics/Pasted image 20240515160604.png",
+    "NPCs/Тридрон.md",
+    "Pics/Pasted image 20240515160540.png",
+    "Pics/Pasted image 20240515160529.png",
+    "NPCs/Дуодрон.md",
+    "Pics/Pasted image 20240515160448.png",
+    "Pics/Pasted image 20240515160438.png",
+    "NPCs/Монодрон.md",
+    "Pics/Pasted image 20240515160417.png",
+    "Hexes/F5. Ну и большое копьё.md",
+    "NPCs/Маурежи.md",
+    "Items/Морозный клинок.md",
+    "Hexes/G5a. Мост Зариели.md",
     "Hexes/I4. Форт Костяшек.md",
-    "Hexes/A5. Логово Затерянного Голгари.md",
-    "Hexes/E3. Гнездо Ос преисподней.md",
-    "NPCs/Гигантская многоножка.md",
-    "Pics/Pasted image 20240508172052.png",
-    "Pics/Pasted image 20240508171059.png",
-    "Hexes/G3. Холм Харумана.md",
-    "NPCs/Нарзугон.md",
-    "NPCs/Харуман.md",
-    "NPCs/Джандер Санстар.md",
-    "Pics/Pasted image 20240508165450.png",
-    "NPCs/Вампир.md",
-    "NPCs/Кровопийца.md",
-    "Pics/Screenshot 2024-05-08 165244.png",
-    "Pics/Screenshot 2024-05-08 164954.png",
-    "Pics/Pasted image 20240508164939.png",
-    "Pics/Pasted image 20240508164933.png",
-    "Pics/Pasted image 20240508164754.png",
-    "Pics/Pasted image 20240508164739.png",
-    "Hexes/H4. Стигийские доки.md",
-    "Items/Дьявольская сбруя.md",
-    "Pics/Pasted image 20240508155612.png",
-    "Hexes/G4. Омут ихора.md",
-    "Hexes/G2. Трещина Дретчей и Стигийская рампа.md",
-    "Столкновения.md",
-    "Hexes/G2a. Трещина Дретчей.md",
-    "War Machines/Дьявольские боевые машины.md",
-    "War Machines/Демонодав.md",
+    "NPCs/Кенку в Форте.md",
+    "NPCs/Барнабас.md",
+    "NPCs/красные колпаки.md",
+    "Погода.md",
     "War Machines/Мучитель.md",
-    "War Machines/Дьяволокат.md",
-    "War Machines/Падальщик.md",
-    "Hexes/J2. Утроба Кощища.md",
+    "Слухи в Авернусе.md",
+    "Столкновения.md",
+    "War Machines/Демонодав.md",
+    "Hexes/B6. Логово коллекционеров душ.md",
     "Main quest",
     "Spells",
     "Templates",

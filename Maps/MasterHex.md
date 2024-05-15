@@ -319,15 +319,15 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\F5. Ну и большое копьё.md">
                 F5
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\G5. Мост и чумной щит.md">
                 G5
             </a>
         </div>
@@ -404,8 +404,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\H6. Аванпост модронов.md">
                 H6
             </a>
         </div>
