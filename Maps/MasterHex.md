@@ -177,8 +177,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\F3. Аллея демонов.md">
                 F3
             </a>
         </div>
@@ -390,15 +390,15 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\F6. Руины логова Джевки.md">
                 F6
             </a>
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\G6. Обломки летучей крепости.md">
                 G6
             </a>
         </div>
