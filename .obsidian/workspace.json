@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/MasterHex.md",
+                "file": "Hexes/H4. Стигийские доки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/MasterHex.md"
+                "file": "Hexes/H4. Стигийские доки.md"
               }
             }
           }
@@ -161,8 +161,21 @@
   },
   "active": "815287e658fc9b89",
   "lastOpenFiles": [
-    "Hexes/G6. Обломки летучей крепости.md",
     "Maps/MasterHex.md",
+    "Hexes/H4. Стигийские доки.md",
+    "Hexes/G3. Холм Харумана.md",
+    "Hexes/G5. Мост и чумной щит.md",
+    "Hexes/G4. Омут ихора.md",
+    "Hexes/E4. Башня Урма.md",
+    "Hexes/A2. Обелиск Уббалукса.md",
+    "NPCs/Никалот.md",
+    "Pics/Screenshot 2024-05-29 143656.png",
+    "Pics/Pasted image 20240529143617.png",
+    "NPCs/Архимаг.md",
+    "Hexes/F4. Кровоточащий струп.md",
+    "Hexes/F3. Аллея демонов.md",
+    "Hexes/E3. Гнездо Ос преисподней.md",
+    "Hexes/G6. Обломки летучей крепости.md",
     "Encounters/Заброшенная боевая машина.md",
     "Encounters/Инфернальная погоня.md",
     "Encounters/Всадник в цепях.md",
@@ -178,24 +191,12 @@
     "Encounters/Лужа-дупликатор.md",
     "Encounters/Испорченный мусор.md",
     "Encounters/Банда демонов.md",
-    "Hexes/F6. Руины логова Джевки.md",
     "Pics/Pasted image 20240522144935.png",
-    "NPCs/Варгулья.md",
-    "Hexes/F3. Аллея демонов.md",
     "Pics/Pasted image 20240522144714.png",
     "Pics/Screenshot 2024-05-22 144115 1.png",
     "Pics/Screenshot 2024-05-22 144115.png",
-    "Hexes/F4. Кровоточащий струп.md",
-    "Hexes/A6. Логово Горького дыхания.md",
-    "Hexes/H4. Стигийские доки.md",
-    "Hexes/G5. Мост и чумной щит.md",
-    "Hexes/G4. Омут ихора.md",
-    "Hexes/I6. Башня Делкафари.md",
     "Pics/Pasted image 20240515162124.png",
-    "Hexes/G5b. Чумной щит.md",
     "Pics/Pasted image 20240515160637.png",
-    "Pics/Pasted image 20240515160627.png",
-    "Pics/Pasted image 20240515160612.png",
     "Main quest",
     "Spells",
     "Templates",

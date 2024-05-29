@@ -241,8 +241,8 @@
         </div>
     </div>
     <div class="hexagon">
-        <div class="hexagontent empty">
-            <a href="obsidian://open?vault-notes&file=">
+        <div class="hexagontent">
+            <a href="obsidian://open?vault-notes&file=Hexes\E4. Башня Урма.md">
                 E4
             </a>
         </div>
