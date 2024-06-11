@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
-                "mode": "preview",
+                "file": "Hexes/E5. Сиберикс.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
+                "file": "Hexes/E5. Сиберикс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md",
+                "file": "Hexes/E5. Сиберикс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/H4. Стигийские доки.md"
+                "file": "Hexes/E5. Сиберикс.md"
               }
             }
           }
@@ -162,19 +162,31 @@
   "active": "815287e658fc9b89",
   "lastOpenFiles": [
     "Maps/MasterHex.md",
+    "Hexes/E5. Сиберикс.md",
+    "NPCs/Сиберикс.md",
+    "Pics/Pasted image 20240612002606.png",
+    "Pics/Pasted image 20240612002552.png",
+    "Hexes/D3. Демоножарка.md",
+    "NPCs/Дао.md",
+    "Pics/Pasted image 20240612001506.png",
+    "Pics/Pasted image 20240612001452.png",
+    "NPCs/Единорог.md",
+    "Pics/Pasted image 20240612000809.png",
+    "Hexes/E3. Гнездо Ос преисподней.md",
+    "Hexes/E4. Башня Урма.md",
+    "NPCs/Никалот.md",
+    "Hexes/I4. Форт Костяшек.md",
+    "Hexes/D5. Могила Ульдрака.md",
+    "NPCs/Архимаг.md",
+    "Hexes/F3. Аллея демонов.md",
     "Hexes/H4. Стигийские доки.md",
     "Hexes/G3. Холм Харумана.md",
     "Hexes/G5. Мост и чумной щит.md",
     "Hexes/G4. Омут ихора.md",
-    "Hexes/E4. Башня Урма.md",
     "Hexes/A2. Обелиск Уббалукса.md",
-    "NPCs/Никалот.md",
     "Pics/Screenshot 2024-05-29 143656.png",
     "Pics/Pasted image 20240529143617.png",
-    "NPCs/Архимаг.md",
     "Hexes/F4. Кровоточащий струп.md",
-    "Hexes/F3. Аллея демонов.md",
-    "Hexes/E3. Гнездо Ос преисподней.md",
     "Hexes/G6. Обломки летучей крепости.md",
     "Encounters/Заброшенная боевая машина.md",
     "Encounters/Инфернальная погоня.md",
@@ -183,20 +195,7 @@
     "Pics/Pasted image 20240522164757.png",
     "Pics/Pasted image 20240522164747.png",
     "Encounters/Оплата долгов.md",
-    "Encounters/Орда демонов или легион дьяволов.md",
-    "Encounters/Маг погоды.md",
-    "Encounters/Предательство исчадия.md",
-    "Encounters/Рейдеры кратеров.md",
-    "Encounters/Лагерь когорты 9-497.md",
-    "Encounters/Лужа-дупликатор.md",
-    "Encounters/Испорченный мусор.md",
-    "Encounters/Банда демонов.md",
     "Pics/Pasted image 20240522144935.png",
-    "Pics/Pasted image 20240522144714.png",
-    "Pics/Screenshot 2024-05-22 144115 1.png",
-    "Pics/Screenshot 2024-05-22 144115.png",
-    "Pics/Pasted image 20240515162124.png",
-    "Pics/Pasted image 20240515160637.png",
     "Main quest",
     "Spells",
     "Templates",
