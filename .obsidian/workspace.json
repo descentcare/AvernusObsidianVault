@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бродячий базар.md",
+                "file": "Пример меню Адского вознесения.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бродячий базар.md",
+                "file": "Пример меню Адского вознесения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бродячий базар.md",
+                "file": "Пример меню Адского вознесения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бродячий базар.md"
+                "file": "Пример меню Адского вознесения.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "39ebabf697b033fd",
   "lastOpenFiles": [
-    "NPCs/инфернальный хобгоблин-капитан.md",
     "Бродячий базар.md",
+    "Пример меню Адского вознесения.md",
+    "NPCs/инфернальный хобгоблин-капитан.md",
     "Ларва.md",
     "Pics/Pasted image 20240625161030.png",
     "Pics/Pasted image 20240625161014.png",
@@ -190,7 +191,6 @@
     "NPCs/Саламандра.md",
     "Pics/Pasted image 20240625155236.png",
     "Pics/Pasted image 20240625155220.png",
-    "Пример меню Адского вознесения.md",
     "NPCs/Сибриэкс.md",
     "NPCs/Махади.md",
     "Warlords/Колассия и Затерянные Голгари.md",
